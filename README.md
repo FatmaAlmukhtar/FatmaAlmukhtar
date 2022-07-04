@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatmaAlmukhtar&layout=compact)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=FatmaAlmukhtar&layout=compact)](https://git.io/streak-stats)
 
